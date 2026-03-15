@@ -1,4 +1,0 @@
-C:/Users/james/OneDrive/Documents/Coding Projects/blank-thoughts/build/CMakeFiles/glad.dir
-C:/Users/james/OneDrive/Documents/Coding Projects/blank-thoughts/build/CMakeFiles/SolarSystem.dir
-C:/Users/james/OneDrive/Documents/Coding Projects/blank-thoughts/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/james/OneDrive/Documents/Coding Projects/blank-thoughts/build/CMakeFiles/ZERO_CHECK.dir
