@@ -1,0 +1,10 @@
+flask
+flask-cors
+numpy
+
+# Trading (Windows/MT5)
+MetaTrader5
+
+# Optional: local LLM trade-confirmation (heavy)
+torch
+transformers
